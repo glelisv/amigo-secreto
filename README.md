@@ -1,7 +1,3 @@
-Aqui está o `README.md` para o projeto "amigo-secreto":
-
----
-
 # Amigo Secreto
 
 Este projeto é uma aplicação simples de sorteio de Amigo Secreto, desenvolvida com HTML, CSS e JavaScript. Permite adicionar nomes de amigos a uma lista, realizar o sorteio e definir quem tirou quem, além de reiniciar o processo, limpando a lista de amigos e os resultados do sorteio.
